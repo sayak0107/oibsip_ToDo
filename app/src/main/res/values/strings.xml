@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">To Do it</string>
+    <string name="place_holder">Place holder</string>
+    <string name="checkbox">Checkbox</string>
+</resources>
