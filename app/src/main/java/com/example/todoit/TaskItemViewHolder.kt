@@ -6,6 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.todoit.databinding.TaskItemCellBinding
 import java.time.format.DateTimeFormatter
 
+
 class TaskItemViewHolder(
     private val context: Context,
     private val binding: TaskItemCellBinding,
